@@ -17,8 +17,8 @@ $ java KnightTester
 Chess:
 $ javac Board.java
 $ javac ChessMock.java
-$ javac KnightTester.java
-$ java KnightTester
+$ javac ChessTester.java
+$ java ChessTester
 
 Enjoy!
 IE
